@@ -9,11 +9,13 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "jsonwebtoken": "^8.5.1",
     "next": "12.2.2",
     "react": "18.2.0",
     "react-dom": "18.2.0"
   },
   "devDependencies": {
+    "@types/jsonwebtoken": "^8.5.9",
     "@types/node": "18.0.3",
     "@types/react": "18.0.15",
     "@types/react-dom": "18.0.6",

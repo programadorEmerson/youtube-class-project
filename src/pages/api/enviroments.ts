@@ -1,0 +1,4 @@
+export enum EnvEnum {
+  SECRET = 'NEXT_PUBLIC_SECRET',
+  XABLAU = 'NEXT_PUBLIC_XABLAU',
+}
